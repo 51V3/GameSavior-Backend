@@ -1,5 +1,15 @@
 {
   "ticket": [
-    
+    {
+      "quantity": 5,
+      "id": 1
+    },
+    {
+      "homeTeam": "SS Lazio",
+      "awayTeam": "Club Atlético de Madrid",
+      "formattedDate": "19/09/2023 19:00",
+      "quantity": 4,
+      "id": 2
+    }
   ]
 }
